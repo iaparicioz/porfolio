@@ -1,3 +1,3 @@
-# Ivonne Aparicio · Portfolio
+# Ivonne Aparicio · Porfolio
 
-Portfolio personal minimalista y tecnológico.
+Porfolio personal minimalista y tecnológico.
